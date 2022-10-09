@@ -1,1 +1,22 @@
-{"foods":[],"menus":[]}
+{"foods":[],"menus":[
+  {
+    "Name": "Chinese & Tandoor",
+    "Show in Home": "Yes"
+  },
+  {
+    "Name": "Veg",
+    "Show in Home": "Yes"
+  },
+  {
+    "Name": "Rice &Roti",
+    "Show in Home": "Yes"
+  },
+  {
+    "Name": "fdsaf",
+    "Show in Home": "Yes"
+  },
+  {
+    "Name": "Nonveg",
+    "Show in Home": "Yes"
+  }
+]}
