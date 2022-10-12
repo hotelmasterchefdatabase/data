@@ -1,22 +1,7 @@
-{"foods":[],"menus":[
-  {
-    "Name": "Chinese & Tandoor",
-    "Show in Home": "Yes"
-  },
-  {
-    "Name": "Veg",
-    "Show in Home": "Yes"
-  },
-  {
-    "Name": "Rice &Roti",
-    "Show in Home": "Yes"
-  },
-  {
-    "Name": "fdsaf",
-    "Show in Home": "Yes"
-  },
-  {
-    "Name": "Nonveg",
-    "Show in Home": "Yes"
-  }
-]}
+{
+  "foods": [],
+  "menus": [
+    { "_id": "26922403-8278-4e3b-9f8e-f87476f2c1f4", "name": "fsda", "showInHome": "Yes", "tableData": { "id": 0 } },
+    { "_id": "50cecf82-e7a5-4dd5-885e-d5ce196f573d", "name": "fsdaf", "showInHome": "Yes", "tableData": { "id": 1 } }
+  ]
+}
